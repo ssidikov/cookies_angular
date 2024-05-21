@@ -1,0 +1,6 @@
+1. Install NodeJs
+2. Inside of project run cmd: npm install
+3. Live server command: ng serve --open
+4. Deployment command: ng build
+
+The deployed website is located in the /dist folder
