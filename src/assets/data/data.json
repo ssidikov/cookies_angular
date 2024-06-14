@@ -1,0 +1,104 @@
+[
+  {
+    "image": "assets/images/1.png",
+    "title": "Best friends",
+    "text": "The cookies with which it all started!Our branded cookies with chocolate crumbs and walnuts crumbling outside with a fairly thick and sticky middle.",
+    "price": 20,
+    "basePrice": 20,
+    "weight": "2 pcs/ 200 gr."
+  },
+  {
+    "image": "assets/images/2.png",
+    "title": "Chocolate Frenchman",
+    "text": "This is a cookie made of dark French cocoa and half -sorting of chocolate chips will probably satisfy even the most avid chocolate lover.",
+    "price": 24,
+    "basePrice": 24,
+    "weight": "2 pcs/ 200 gr."
+  },
+  {
+    "image": "assets/images/3.png",
+    "title": "Oatmeal with raisins, sir!",
+    "text": "This is a butt oily cookies weighing six ounces each, golden brown from the outside, wet inside and filled with chubby sweet raisins.",
+    "price": 18,
+    "basePrice": 18,
+    "weight": "2 pcs/ 200 gr."
+  },
+  {
+    "image": "assets/images/4.png",
+    "title": "Chocolate pleasure ",
+    "text": "Perfectly crispy and quite thick and sticky in the center, this cookies are filled with half -sorting and dark chocolate shavings, giving a rich depth of taste.",
+    "price": 24,
+    "basePrice": 24,
+    "weight": "2 pcs/ 200 gr.",
+    "sugarFree": true
+  },
+  {
+    "image": "assets/images/5.png",
+    "title": "Arachis paradise",
+    "text": "Sweet, piquant and perfectly balanced cookies satisfies the craving of lovers of peanut oil and chocolate.",
+    "price": 20,
+    "basePrice": 20,
+    "weight": "2 pcs/ 200 gr.",
+    "sugarFree": true
+  },
+  {
+    "image": "assets/images/6.png",
+    "title": "Chocolate nuts ",
+    "Text": "Our proprietary recipe for cookies with chocolate crumbs and walnuts guarantees an unforgettable taste experience. Each cookie crunches outside, but reveals inside a delicate core.",
+    "price": 18,
+    "basePrice": 18,
+    "weight": "2 pcs/ 200 gr.",
+    "sugarFree": true
+  },
+  {
+    "image": "assets/images/7.png",
+    "title": "Assorted branded cookies",
+    "text": "Why choose one when you can get them all?Our classic assortment of cookies includes one of the four original flavor tastes.",
+    "price": 36,
+    "basePrice": 36,
+    "weight": "4 pcs/ 400 gr."
+  },
+  {
+    "image": "assets/images/8.png",
+    "title": "Lemon cookies",
+    "text": "Spring is no longer around the corner, but we were eager to give you a little sunlight: our first lemon cookies.This treat is chewing, lemon, not too sweet and even a little ... refreshing?",
+    "price": 33,
+    "basePrice": 33,
+    "weight": "4 pcs/ 400 gr."
+  },
+  {
+    "image": "assets/images/9.png",
+    "title": "Lovers chocolate",
+    "text": "You no longer need to choose favorites.We made this set for all people who really love chocolate ...",
+    "price": 38,
+    "basePrice": 38,
+    "weight": "4 pcs/ 400 gr."
+  },
+  {
+    "image": "assets/images/10.png",
+    "title": "Caramel and coconut",
+    "text": "Turn yourself with coconut, oily, caramel cookies, which has an unprecedented taste and texture.Enjoyment all year round.",
+    "price": 33,
+    "basePrice": 33,
+    "weight": "4 pcs/ 400 gr.",
+    "sugarFree": true
+  },
+  {
+    "image": "assets/images/11.png",
+    "title": "Vegan with chocolate crumb",
+    "text": "Our vegan glutenic cookies contains pieces of crispy walnuts and a half -sweet vegan chocolate shavings.",
+    "price": 39,
+    "basePrice": 39,
+    "weight": "4 pcs/ 400 gr.",
+    "sugarFree": true
+  },
+  {
+    "image": "assets/images/12.png",
+    "title": "Cream-brown nut cookies",
+    "text": "Using a unique mixture of ingredients, we created cookies with pieces of cream-brown and almond nuts, which promises unique gastronomic sensations.Each piece has a crisp and melts in the mouth.",
+    "price": 35,
+    "basePrice": 35,
+    "weight": "4 pcs/ 400 gr.",
+    "sugarFree": true
+  }
+]
